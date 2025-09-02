@@ -1,4 +1,4 @@
-MCNet
+# MCNet
 
 This repository accompanies the paper Atom-level machine learning of
 protein-glycan interactions and cross-chiral recognition in glycobiology.
@@ -21,3 +21,13 @@ Related work is available in repositories:
 https://github.com/loganwoudstra/mirror-image-glycans
 https://github.com/loganwoudstra/PEER_Benchmark
 
+
+Python scripts have been developed and run with:
+
+1. Python: 3.7.3, 3.8.10, 3.12.3	https://www.python.org
+2. PyTorch: 1.8.0, 1.9.0, 2.3,0	https://pytorch.org
+3. RDKit: 2018.09, 2019.09.1, 2023.09.6	https://www.rdkit.org
+4. XGBoost: 3.0.2		https://xgboost.ai
+5. NumPy: 1.17.45, 1.26.4		https://numpy.org
+6. SciPy: 1.3.3, 1.7.1, 1.13.1	https://scipy.org
+7. Pandas:	0.25.3, 2.2.2	https://pandas.pydata.org
